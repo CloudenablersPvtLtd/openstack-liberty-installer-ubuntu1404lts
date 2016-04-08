@@ -266,7 +266,7 @@ extraglancehosts=""
 #
 # If you are installing a controller, and want to use cinder, you must use "yes" in
 # order to install cinder. If it is a compute, use "no":
-cinderinstall="yes"
+cinderinstall="no"
 # The host IP is normally the one of the controller and you MUST specify it either if
 # you are installing the controller or a compute node. This is normally the controller
 # IP address or FQDN if you prefer to use DNS. Also, remember to change the password and
